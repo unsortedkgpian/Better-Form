@@ -13,4 +13,11 @@ To run this project in local computer
   cd ./Form
   npm run dev
 ```
+## Features
+
+- **User Form Input**: Includes fields for Name, Email, Password, and Confirm Password.
+- **Formik & Yup Integration**: Uses Formik for form handling and Yup for schema validation.
+- **Validation**: The form ensures all fields are valid before submission, displaying error messages when necessary.
+- **Success Message**: Upon successful form submission, a success message appears at the top of the screen.
+- **Error Handling**: Displays appropriate error messages for invalid inputs.
 
