@@ -21,3 +21,19 @@ To run this project in local computer
 - **Success Message**: Upon successful form submission, a success message appears at the top of the screen.
 - **Error Handling**: Displays appropriate error messages for invalid inputs.
 
+
+## Tech Stack
+
+- **React**: JavaScript library for building user interfaces.
+- **Formik**: Library for handling form state and validation.
+- **Yup**: JavaScript schema builder for validation.
+- **CSS**: Custom styling for layout and UI elements.
+
+## Getting Started
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/sign-up-form.git
+   ```
